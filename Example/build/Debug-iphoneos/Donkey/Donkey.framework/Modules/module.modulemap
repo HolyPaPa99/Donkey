@@ -1,0 +1,6 @@
+framework module Donkey {
+  umbrella header "Donkey-umbrella.h"
+
+  export *
+  module * { export * }
+}

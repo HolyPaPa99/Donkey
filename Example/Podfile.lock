@@ -1,0 +1,16 @@
+PODS:
+  - Donkey (0.1.0)
+
+DEPENDENCIES:
+  - Donkey (from `../`)
+
+EXTERNAL SOURCES:
+  Donkey:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Donkey: 2411b89aed31feee0beba1e4f32fd47ab600e5d8
+
+PODFILE CHECKSUM: 47a7a0aeacd56883731bfd11fb298ac7cddb3c8e
+
+COCOAPODS: 1.11.2

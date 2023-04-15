@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Donkey in Pods, no dependencies
+Pods-Donkey_Tests in Pods, depends on:
+Donkey in Pods (explicit)
