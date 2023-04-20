@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of Donkey.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/Sean/Donkey",
+  "homepage": "https://bitbucket.org/team-1626863143822-admin/donkey",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,27 @@
     "Sean": "seanlee0v0@icloud.com"
   },
   "source": {
-    "git": "https://github.com/Sean/Donkey.git",
+    "git": "https://team-1626863143822-admin@bitbucket.org/team-1626863143822-admin/donkey.git",
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "9.0"
+    "ios": "15.0"
   },
-  "source_files": "Donkey/Classes/**/*"
+  "source_files": "Donkey/Source/**/*",
+  "public_header_files": "Donkey/Source/**/*.h",
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ],
+  "dependencies": {
+    "Introspect": [
+      "~> 0.1.3"
+    ],
+    "Alamofire": [
+      "~> 5.2"
+    ],
+    "CleanJSON": [
+      "~> 1.0.8"
+    ]
+  }
 }
