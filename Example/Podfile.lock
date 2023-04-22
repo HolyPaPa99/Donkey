@@ -1,16 +1,31 @@
 PODS:
-  - Donkey (0.1.0)
+  - Alamofire (5.6.4)
+  - CleanJSON (1.0.9)
+  - Donkey (0.1.0):
+    - Alamofire (~> 5.2)
+    - CleanJSON (~> 1.0.8)
+    - Introspect (~> 0.1.3)
+  - Introspect (0.1.4)
 
 DEPENDENCIES:
   - Donkey (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CleanJSON
+    - Introspect
 
 EXTERNAL SOURCES:
   Donkey:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Donkey: 2411b89aed31feee0beba1e4f32fd47ab600e5d8
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  CleanJSON: 910a36465ce4829e264a902ccf6d1455fdd9f980
+  Donkey: 327a5b939a8a454d5222c1e2773a88a223b0598c
+  Introspect: b62c4dd2063072327c21d618ef2bedc3c87bc366
 
-PODFILE CHECKSUM: 47a7a0aeacd56883731bfd11fb298ac7cddb3c8e
+PODFILE CHECKSUM: b0df63948e83d7add1978e326d646a4679f0d199
 
-COCOAPODS: 1.11.2
+COCOAPODS: 1.12.0

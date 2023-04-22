@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of Donkey.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://bitbucket.org/team-1626863143822-admin/donkey",
+  "homepage": "https://github.com/HolyPaPa99/Donkey",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "Sean": "seanlee0v0@icloud.com"
   },
   "source": {
-    "git": "https://team-1626863143822-admin@bitbucket.org/team-1626863143822-admin/donkey.git",
+    "git": "https://github.com/HolyPaPa99/Donkey.git",
     "tag": "0.1.0"
   },
   "platforms": {

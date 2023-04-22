@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "IPTools.h"
 
 FOUNDATION_EXPORT double DonkeyVersionNumber;
 FOUNDATION_EXPORT const unsigned char DonkeyVersionString[];
