@@ -7,11 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		43148A3429F53C79000EDFD5 /* DateExtensionDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43148A3329F53C79000EDFD5 /* DateExtensionDemo.swift */; };
+		43148A3829F53E71000EDFD5 /* DispatchTimerDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43148A3729F53E71000EDFD5 /* DispatchTimerDemo.swift */; };
+		433C1F5929F553F800329A30 /* FormDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 433C1F5829F553F800329A30 /* FormDemo.swift */; };
+		433C1F5B29F5900D00329A30 /* IPToolDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 433C1F5A29F5900D00329A30 /* IPToolDemo.swift */; };
+		433C1F5D29F62ED000329A30 /* NavigationDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 433C1F5C29F62ED000329A30 /* NavigationDemo.swift */; };
+		433C1F5F29F6443C00329A30 /* QRCodeDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 433C1F5E29F6443C00329A30 /* QRCodeDemo.swift */; };
+		433C1F6129F6445600329A30 /* SliderDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 433C1F6029F6445600329A30 /* SliderDemo.swift */; };
 		43A91DC829F248AF00900F34 /* DemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43A91DC729F248AF00900F34 /* DemoApp.swift */; };
 		43A91DCA29F248AF00900F34 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43A91DC929F248AF00900F34 /* ContentView.swift */; };
 		43A91DCC29F248B400900F34 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43A91DCB29F248B400900F34 /* Assets.xcassets */; };
 		43A91DD029F248B400900F34 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43A91DCF29F248B400900F34 /* Preview Assets.xcassets */; };
-		43A91DD729F292CF00900F34 /* CopyRightDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43A91DD629F292CF00900F34 /* CopyRightDemo.swift */; };
+		43A91DD729F292CF00900F34 /* ViewExtensionDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43A91DD629F292CF00900F34 /* ViewExtensionDemo.swift */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
 		9E202C1FBCA118F7ADE149AC /* Pods_Donkey_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2AB3AFACA4650D0B53ADB312 /* Pods_Donkey_Tests.framework */; };
 		AA8B49758810E209C71D6D30 /* Pods_Donkey_Tests_Demo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D1119FD82C0EAD70B5FC0838 /* Pods_Donkey_Tests_Demo.framework */; };
@@ -21,13 +28,20 @@
 		05BBD9401AD1CB55DAD22C8C /* Pods-Donkey_Tests-Demo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Donkey_Tests-Demo.debug.xcconfig"; path = "Target Support Files/Pods-Donkey_Tests-Demo/Pods-Donkey_Tests-Demo.debug.xcconfig"; sourceTree = "<group>"; };
 		2AB3AFACA4650D0B53ADB312 /* Pods_Donkey_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Donkey_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EAAC03F9513FFEA4C41CF63 /* Pods-Donkey_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Donkey_Tests.debug.xcconfig"; path = "Target Support Files/Pods-Donkey_Tests/Pods-Donkey_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		43148A3329F53C79000EDFD5 /* DateExtensionDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateExtensionDemo.swift; sourceTree = "<group>"; };
+		43148A3729F53E71000EDFD5 /* DispatchTimerDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DispatchTimerDemo.swift; sourceTree = "<group>"; };
+		433C1F5829F553F800329A30 /* FormDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormDemo.swift; sourceTree = "<group>"; };
+		433C1F5A29F5900D00329A30 /* IPToolDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IPToolDemo.swift; sourceTree = "<group>"; };
+		433C1F5C29F62ED000329A30 /* NavigationDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationDemo.swift; sourceTree = "<group>"; };
+		433C1F5E29F6443C00329A30 /* QRCodeDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QRCodeDemo.swift; sourceTree = "<group>"; };
+		433C1F6029F6445600329A30 /* SliderDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderDemo.swift; sourceTree = "<group>"; };
 		43A91DC529F248AF00900F34 /* Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		43A91DC729F248AF00900F34 /* DemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoApp.swift; sourceTree = "<group>"; };
 		43A91DC929F248AF00900F34 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		43A91DCB29F248B400900F34 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		43A91DCD29F248B400900F34 /* Demo.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Demo.entitlements; sourceTree = "<group>"; };
 		43A91DCF29F248B400900F34 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		43A91DD629F292CF00900F34 /* CopyRightDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CopyRightDemo.swift; sourceTree = "<group>"; };
+		43A91DD629F292CF00900F34 /* ViewExtensionDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewExtensionDemo.swift; sourceTree = "<group>"; };
 		5DDAFB3F16F8B35364888F5B /* Pods-Donkey_Tests-Demo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Donkey_Tests-Demo.release.xcconfig"; path = "Target Support Files/Pods-Donkey_Tests-Demo/Pods-Donkey_Tests-Demo.release.xcconfig"; sourceTree = "<group>"; };
 		607FACE51AFB9204008FA782 /* Donkey_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Donkey_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -94,7 +108,14 @@
 		43A91DD529F292B700900F34 /* DonkeyDemo */ = {
 			isa = PBXGroup;
 			children = (
-				43A91DD629F292CF00900F34 /* CopyRightDemo.swift */,
+				43A91DD629F292CF00900F34 /* ViewExtensionDemo.swift */,
+				43148A3329F53C79000EDFD5 /* DateExtensionDemo.swift */,
+				43148A3729F53E71000EDFD5 /* DispatchTimerDemo.swift */,
+				433C1F5829F553F800329A30 /* FormDemo.swift */,
+				433C1F5A29F5900D00329A30 /* IPToolDemo.swift */,
+				433C1F5C29F62ED000329A30 /* NavigationDemo.swift */,
+				433C1F5E29F6443C00329A30 /* QRCodeDemo.swift */,
+				433C1F6029F6445600329A30 /* SliderDemo.swift */,
 			);
 			path = DonkeyDemo;
 			sourceTree = "<group>";
@@ -334,7 +355,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				43A91DCA29F248AF00900F34 /* ContentView.swift in Sources */,
-				43A91DD729F292CF00900F34 /* CopyRightDemo.swift in Sources */,
+				433C1F6129F6445600329A30 /* SliderDemo.swift in Sources */,
+				43148A3829F53E71000EDFD5 /* DispatchTimerDemo.swift in Sources */,
+				433C1F5F29F6443C00329A30 /* QRCodeDemo.swift in Sources */,
+				43A91DD729F292CF00900F34 /* ViewExtensionDemo.swift in Sources */,
+				43148A3429F53C79000EDFD5 /* DateExtensionDemo.swift in Sources */,
+				433C1F5D29F62ED000329A30 /* NavigationDemo.swift in Sources */,
+				433C1F5929F553F800329A30 /* FormDemo.swift in Sources */,
+				433C1F5B29F5900D00329A30 /* IPToolDemo.swift in Sources */,
 				43A91DC829F248AF00900F34 /* DemoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -374,6 +402,7 @@
 				ENABLE_PREVIEWS = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "choose a photo to display  as your profile photo or your routine's background image";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -425,6 +454,7 @@
 				ENABLE_PREVIEWS = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "choose a photo to display  as your profile photo or your routine's background image";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;

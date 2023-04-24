@@ -5,7 +5,7 @@ Date extension
 Created by Sean Lee
 */
 public extension Date{
-    public static func startOfThisWeek() -> Date {
+    static func startOfThisWeek() -> Date {
         let calendar = NSCalendar.current
         let components = calendar.dateComponents(
             Set([.yearForWeekOfYear, .weekOfYear]), from: Date())
@@ -13,7 +13,7 @@ public extension Date{
         return calendar.date(from: components)!
     }
     
-    public static func endOfThisWeek(returnEndTime:Bool = false) -> Date {
+    static func endOfThisWeek(returnEndTime:Bool = false) -> Date {
         let calendar = NSCalendar.current
         var components = DateComponents()
         if returnEndTime {
@@ -27,7 +27,7 @@ public extension Date{
         return calendar.date(byAdding: components, to: startOfThisWeek())!
     }
     
-    public func date(byAddingDays: Int) -> Date {
+    func date(byAddingDays: Int) -> Date {
         let calendar = NSCalendar.current
         var components = DateComponents()
         components.day = byAddingDays

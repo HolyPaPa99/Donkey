@@ -6,7 +6,6 @@
 //
 
 import Alamofire
-import CleanJSON
 import SwiftUI
 
 public class ApiRequest {
@@ -26,7 +25,7 @@ public class ApiRequest {
                     failure(ApiError.UNKNOWN_SERVER_ERROR)
                     return
                 }
-                let error = try CleanJSONDecoder().decode(ApiError.self, from: data)
+                let error = try JSONDecoder().decode(ApiError.self, from: data)
                 failure(error)
             }catch let er{ //unknown response format
                 debugPrint("Api Request Error:\(er)")

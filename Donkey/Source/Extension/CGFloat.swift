@@ -7,11 +7,11 @@
 
 public extension  CGFloat {
     
-    public static let veriySmall: CGFloat = 8
-    public static let smaller: CGFloat = 12
-    public static let small: CGFloat = 16
-    public static let medium: CGFloat = 18
-    public static let large: CGFloat = 24
-    public static let larger: CGFloat = 32
-    public static let huge: CGFloat = 64
+    static let veriySmall: CGFloat = 8
+    static let smaller: CGFloat = 12
+    static let small: CGFloat = 16
+    static let medium: CGFloat = 18
+    static let large: CGFloat = 24
+    static let larger: CGFloat = 32
+    static let huge: CGFloat = 64
 }

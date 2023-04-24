@@ -41,5 +41,5 @@ TODO: Add long description of the pod here.
   # s.dependency 'AFNetworking', '~> 2.3'
   s.dependency 'Introspect', '~> 0.1.3'
   s.dependency 'Alamofire', '~> 5.2'
-  s.dependency 'CleanJSON', '~> 1.0.8'
+  #s.dependency 'CleanJSON', '~> 1.0.8'
 end

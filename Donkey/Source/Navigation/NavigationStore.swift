@@ -17,8 +17,11 @@ public class NavigationStore: ObservableObject {
     
     private init(){}
     
-    public func popup(){
-        self.stack.removeLast()
+    public func popup(_ layers: Int = 1){
+        debugPrint("stack: \(self.stack.count)")
+        if self.stack.count >= layers {
+            self.stack.removeLast(layers)
+        }
     }
     
     public func push(_ value: any Hashable){

@@ -191,7 +191,7 @@
 		154B1B4AD63C80F8E7704AF5574A85AC /* Result+Alamofire.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Result+Alamofire.swift"; path = "Source/Result+Alamofire.swift"; sourceTree = "<group>"; };
 		15599038EABCA3A8090BB167296FC3C2 /* Pods-Donkey_Tests-Demo-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Donkey_Tests-Demo-Info.plist"; sourceTree = "<group>"; };
 		1749D08CFE7F93D77FB1C986610D78FD /* URLSessionConfiguration+Alamofire.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "URLSessionConfiguration+Alamofire.swift"; path = "Source/URLSessionConfiguration+Alamofire.swift"; sourceTree = "<group>"; };
-		1978CEE7EF0B23AD00A5FC16DC26828B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		1978CEE7EF0B23AD00A5FC16DC26828B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		1C5DE4C22EC32050FAD4BD2ECE489BC0 /* URLRequest+Alamofire.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "URLRequest+Alamofire.swift"; path = "Source/URLRequest+Alamofire.swift"; sourceTree = "<group>"; };
 		1EA8FDBB8B822A79B16CBF659C301960 /* CleanJSON-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CleanJSON-dummy.m"; sourceTree = "<group>"; };
 		1F1AEDE83931CFF0F0692E455A42FAF4 /* MultipartUpload.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MultipartUpload.swift; path = Source/MultipartUpload.swift; sourceTree = "<group>"; };
@@ -235,7 +235,7 @@
 		5B5BB023DC9C5D64736462330FAF12E0 /* RTextEditor.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = RTextEditor.swift; sourceTree = "<group>"; };
 		5CF992109F99150564CA7C484CF75CA4 /* RequestTaskMap.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RequestTaskMap.swift; path = Source/RequestTaskMap.swift; sourceTree = "<group>"; };
 		5D797E9A5C5782CE845840781FA1CC81 /* Alamofire */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Alamofire; path = Alamofire.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		5E54604090DF7618B1B193FE34FC43C4 /* Donkey.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = Donkey.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		5E54604090DF7618B1B193FE34FC43C4 /* Donkey.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = Donkey.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		5FF2C669D4B71115F2C3119EDDDF3BC3 /* Hidden.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Hidden.swift; sourceTree = "<group>"; };
 		631A64496E05BEB21FF64DAA9CA79EBA /* Introspect.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Introspect.swift; path = Introspect/Introspect.swift; sourceTree = "<group>"; };
 		6412A4605A7E150915A12CC3E4F9A69A /* CodingKeysConverter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CodingKeysConverter.swift; path = Sources/CleanJSON/CodingKeysConverter.swift; sourceTree = "<group>"; };
@@ -270,7 +270,7 @@
 		9905C0EBB2000D308CB03C1654ADCC5F /* ApiRequest.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ApiRequest.swift; sourceTree = "<group>"; };
 		9A0C1681410A3B3913164B1D34A0E0FF /* UIImagePickerModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = UIImagePickerModel.swift; sourceTree = "<group>"; };
 		9CD12D94B0D49EBEDEC31E73BBA911A7 /* Iconfont.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Iconfont.swift; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9DAA03B4FA4028249AA5829DA648BDD6 /* QRCode.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = QRCode.swift; sourceTree = "<group>"; };
 		9DC1247E837CF9D48027A2B8B1C733DC /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/MapKit.framework; sourceTree = DEVELOPER_DIR; };
 		A1C2DF2AFD0AD92E2BF0C72492F18908 /* Date.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Date.swift; sourceTree = "<group>"; };
@@ -318,7 +318,7 @@
 		EE4AFA49CDB8B7B1D7360524C4132591 /* CGFloat.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CGFloat.swift; sourceTree = "<group>"; };
 		EF0AEE38C3C021915CA5D87204810466 /* OptimizedIntStepper.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = OptimizedIntStepper.swift; sourceTree = "<group>"; };
 		EFED0F567C667CD8BCAA88C1D7A03407 /* Pods-Donkey_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Donkey_Tests-umbrella.h"; sourceTree = "<group>"; };
-		F0090A1B0A654769825470673C5F226E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		F0090A1B0A654769825470673C5F226E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		F120AEC295B2978DEF339F7547EABCB6 /* URLEncodedFormEncoder.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = URLEncodedFormEncoder.swift; path = Source/URLEncodedFormEncoder.swift; sourceTree = "<group>"; };
 		F72284CC93C5E7208A5DD5D279C81599 /* Introspect.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Introspect.debug.xcconfig; sourceTree = "<group>"; };
 		FAD5C4D5302B7A3BC43E063B665A897E /* CleanDecoder.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CleanDecoder.swift; path = Sources/CleanJSON/CleanDecoder.swift; sourceTree = "<group>"; };
@@ -388,7 +388,6 @@
 				A1C2DF2AFD0AD92E2BF0C72492F18908 /* Date.swift */,
 				B4A5B229ABEE481581BC9BBAD0945838 /* DispatchSource.swift */,
 				2D87BBD69BF4CFD7C53178FE0EA25CBF /* Double.swift */,
-				48B7E839DAE67BE03F5107441657B5C1 /* OptimizedDoubleStepper.swift */,
 				5709C03465E73F521AEB045CAA076E60 /* View.swift */,
 			);
 			name = Extension;
@@ -482,7 +481,6 @@
 				D0956341F023CC170E4E78647D2867B4 /* ToJSON.swift */,
 				06E151A24F2B078696CC84F6A0AC7402 /* Support Files */,
 			);
-			name = CleanJSON;
 			path = CleanJSON;
 			sourceTree = "<group>";
 		};
@@ -510,6 +508,7 @@
 		558157597F07314111A0BF611507663F /* Form */ = {
 			isa = PBXGroup;
 			children = (
+				48B7E839DAE67BE03F5107441657B5C1 /* OptimizedDoubleStepper.swift */,
 				EF0AEE38C3C021915CA5D87204810466 /* OptimizedIntStepper.swift */,
 				3D2E1A3142F2B979EFD5FCFB6D1CCA1E /* RPicker.swift */,
 				5B5BB023DC9C5D64736462330FAF12E0 /* RTextEditor.swift */,
@@ -772,7 +771,6 @@
 				DCFF50DAD03ACA5DF121DC6E7919D2FD /* Validation.swift */,
 				C123181E23FE558FF80AF704072AE3D5 /* Support Files */,
 			);
-			name = Alamofire;
 			path = Alamofire;
 			sourceTree = "<group>";
 		};
@@ -786,7 +784,6 @@
 				8565633CA5551D3087AB0CDC3189A218 /* ViewExtensions.swift */,
 				CD8422803CF2794F6C32FFF2A7FD19B7 /* Support Files */,
 			);
-			name = Introspect;
 			path = Introspect;
 			sourceTree = "<group>";
 		};
@@ -1576,8 +1573,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
